@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-image:linear-gradient(rgb(52, 248, 85),white);
+    border: 20px double black;
+}
+h2{
+text-align:center;
+}
+ img {
+    width:500px;
+    height:300px;
+    border:10px solid white;
+
+}
+body{
+    background-image:linear-gradient(rgb(52, 248, 85),white);
+}
+:hover img{
+    border:10px double black;
+}
+h3{
+ border: 20px double black; 
+   background-image:linear-gradient(rgb(52, 248, 85),white);
+}
+footer{
+    border: 20px double black;
+    background-image:linear-gradient(rgb(52, 248, 85),white);
+}
+h4{
+    font-size:20px;
+   text-decoration:black;
+}
+h5{
+    font-size:20px;
+   text-decoration:black;
+}
+h6{
+font-size:20px;
+   text-decoration:black;
+}
